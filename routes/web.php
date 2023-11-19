@@ -9,7 +9,7 @@ use App\Http\Controllers\bookingController;
 use App\Http\Controllers\adminController;
 use Laravel\Fortify\RoutePath;
 use Carbon\Carbon;
-use App\Models\users;
+use App\Models\Users;
 use Illuminate\Support\Facades\Auth;
 
 /*
