@@ -6,7 +6,7 @@ use Illuminate\Contracts\Support\Responsable;
 use Illuminate\Http\Request;
 use App\Models\bookingUser;
 use App\Models\booking;
-use App\Models\users;
+use App\Models\Users;
 
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;

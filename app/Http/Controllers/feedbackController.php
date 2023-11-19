@@ -4,7 +4,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests\feedbackRequest;
 use Illuminate\Support\Facades\Auth;
 use App\Models\feedback;
-use App\Models\users;
+use App\Models\Users;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Database\Schema\Blueprint;

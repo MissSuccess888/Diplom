@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Auth;
 use App\Models\bookingUser;
 use App\Models\booking;
-use App\Models\users;
+use App\Models\Users;
 use Illuminate\Support\Facades\Gate;
 
 
